@@ -1,0 +1,15 @@
+ETIQUETAS AME — cómo publicarla como app
+
+1. Entrá a github.com con la cuenta ameesencial-sys (la misma del quiz).
+2. Creá un repositorio nuevo llamado "etiquetas" (público).
+3. Subí TODOS los archivos de esta carpeta (index.html, manifest.json, sw.js, icon-192.png, icon-512.png).
+4. En el repo: Settings → Pages → Branch: main / (root) → Save.
+5. En 1-2 minutos queda en: https://ameesencial-sys.github.io/etiquetas/
+
+INSTALAR
+· PC (Chrome/Edge): abrí el link → ícono de instalar en la barra de direcciones (o menú ⋮ → "Instalar Etiquetas AME").
+· Android (Chrome): menú ⋮ → "Agregar a pantalla principal".
+· iPhone (Safari): Compartir → "Agregar a inicio".
+
+ACTUALIZAR
+Cuando haya una versión nueva, reemplazá index.html en el repo. La app se actualiza sola al abrirla con internet.
